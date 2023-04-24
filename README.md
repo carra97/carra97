@@ -4,12 +4,13 @@ lo cuál me llevó a querer aprender más sobre el tema, se me hizo difícil has
 secundaria por cuestiones de tiempo y dificultad para comprender la gran cantidad de información que 
 encontraba en internet, con el paso del tiempo empecé a mejorar mis búsquedas en la web para poder 
 identificar la información útil a fin de adquirir mayor conocimiento.
-acabó de egresar de Henry y estoy en el último año de mi carrera como Técnico Universitario en Programación
+Acabo de egresar de Henry y estoy en el último año de mi carrera como Técnico Universitario en Programación,
 aunque esta última se vio interrumpida desde la pandemia, todo el tiempo que estuve estudiando me ayudo a
 aprender como razonar como programador, encontrar problemas, estudiarlos, recopilar la informacion,
 planificar como proceder y luego comenzar a programar, en mi pasaje por éstas instituciones pude adquirir 
 conocimientos en javascript, typescript, react, redux, postgreSQL, C#, express y node.js, prisma, git y github,
-Chakra, Bootstrap,passport, por dar ejemplos, entre algunas otras herramientas y lenguajes.
+Chakra, Bootstrap, passport, por dar ejemplos, entre algunas otras herramientas y lenguajes.
+Así como también desarrollar habilidades blandas como trabajo en equipo, comunicación, resolución de problemas, liderazgo, entre otros.
 ofresco mis servicios y conocimiento a fin de poder ayudar a la empresa a realizar sus proyectos 
 y poder aportar con aquello que he podido aprender a lo largo de estos años.
 
