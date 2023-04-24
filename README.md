@@ -1,4 +1,4 @@
-### mi nombre es Santiago Carrattini, de María Grande Entre Rios, tengo 26 años y vivo actualmente en Paraná.
+### Mi nombre es Santiago Carrattini, de María Grande Entre Rios, tengo 26 años y vivo actualmente en Paraná.
   Tras haber iniciado a programar a los 12 años  me encontré con un mundo nuevo por el que me senti fascinado, 
 lo cuál me llevó a querer aprender más sobre el tema, se me hizo difícil hasta luego de terminar la 
 secundaria por cuestiones de tiempo y dificultad para comprender la gran cantidad de información que 
