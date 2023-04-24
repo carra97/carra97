@@ -11,7 +11,7 @@ planificar como proceder y luego comenzar a programar, en mi pasaje por éstas i
 conocimientos en javascript, typescript, react, redux, postgreSQL, C#, express y node.js, prisma, git y github,
 Chakra, Bootstrap, passport, por dar ejemplos, entre algunas otras herramientas y lenguajes.
 Así como también desarrollar habilidades blandas como trabajo en equipo, comunicación, resolución de problemas, liderazgo, entre otros.
-ofresco mis servicios y conocimiento a fin de poder ayudar a la empresa a realizar sus proyectos 
+Ofrezco mis servicios y conocimiento a fin de poder ayudar a la empresa a realizar sus proyectos 
 y poder aportar con aquello que he podido aprender a lo largo de estos años.
 
 mis objetivos son:
