@@ -20,6 +20,30 @@ mis objetivos son:
 * Poder desenvolverme en un ambiente de trabajo real de manera plena fortaleciendo mis habilidades blandas.
 * Continuar mis estudios a fin de seguir mejorando mis habilidades tanto de comunicación como técnicas.
 
+Tecnologías:
+
+*React
+*Redux
+*JavaScript
+*TypeScript
+*C#
+*PostgreSQL
+*Express
+*Prisma
+*Chakra
+*Bootstrap
+*Passport
+*CheckOut Mercadopago
+*Css
+*Html-5
+
+
+mis redes de contacto:
+
+Instagram: https://www.instagram.com/santicarrattini/
+Linkedin: https://www.linkedin.com/in/santiago-nicolas-carrattini-475b351b2/
+
+
 <!--
 **carra97/carra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
