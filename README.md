@@ -3,7 +3,7 @@
 lo cuál me llevó a querer aprender más sobre el tema, se me hizo difícil hasta luego de terminar la 
 secundaria por cuestiones de tiempo y dificultad para comprender la gran cantidad de información que 
 encontraba en internet, con el paso del tiempo empecé a mejorar mis búsquedas en la web para poder 
-identificar la información útil a fin de adquirir mayor conocimiento.
+identificar la información útil a fin de adquirir mayor conocimiento./n
 Acabo de egresar de Henry y estoy en el último año de mi carrera como Técnico Universitario en Programación,
 aunque esta última se vio interrumpida desde la pandemia, todo el tiempo que estuve estudiando me ayudo a
 aprender como razonar como programador, encontrar problemas, estudiarlos, recopilar la informacion,
