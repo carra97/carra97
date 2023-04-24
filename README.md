@@ -22,26 +22,26 @@ mis objetivos son:
 
 Tecnologías:
 
-*React
-*Redux
-*JavaScript
-*TypeScript
-*C#
-*PostgreSQL
-*Express
-*Prisma
-*Chakra
-*Bootstrap
-*Passport
-*CheckOut Mercadopago
-*Css
-*Html-5
+* React.
+* Redux.
+* JavaScript.
+* TypeScript.
+* C#.
+* PostgreSQL.
+* Express.
+* Prisma.
+* Chakra.
+* Bootstrap.
+* Passport.
+* CheckOut Mercadopago.
+* Css.
+* Html-5.
 
 
 mis redes de contacto:
 
-Instagram: https://www.instagram.com/santicarrattini/
-Linkedin: https://www.linkedin.com/in/santiago-nicolas-carrattini-475b351b2/
+* Instagram: https://www.instagram.com/santicarrattini/.
+* Linkedin: https://www.linkedin.com/in/santiago-nicolas-carrattini-475b351b2/.
 
 
 <!--
