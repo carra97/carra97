@@ -1,48 +1,56 @@
-### Mi nombre es Santiago Carrattini, de María Grande Entre Rios, tengo 26 años y vivo actualmente en Paraná.
-  Tras haber iniciado a programar a los 12 años  me encontré con un mundo nuevo por el que me senti fascinado, 
-lo cuál me llevó a querer aprender más sobre el tema, se me hizo difícil hasta luego de terminar la 
-secundaria por cuestiones de tiempo y dificultad para comprender la gran cantidad de información que 
-encontraba en internet, con el paso del tiempo empecé a mejorar mis búsquedas en la web para poder 
-identificar la información útil a fin de adquirir mayor conocimiento.
-Acabo de egresar de Henry y estoy en el último año de mi carrera como Técnico Universitario en Programación,
-aunque esta última se vio interrumpida desde la pandemia, todo el tiempo que estuve estudiando me ayudo a
-aprender como razonar como programador, encontrar problemas, estudiarlos, recopilar la informacion,
-planificar como proceder y luego comenzar a programar, en mi pasaje por éstas instituciones pude adquirir 
-conocimientos en javascript, typescript, react, redux, postgreSQL, C#, express y node.js, prisma, git y github,
-Chakra, Bootstrap, passport, por dar ejemplos, entre algunas otras herramientas y lenguajes.
-Así como también desarrollar habilidades blandas como trabajo en equipo, comunicación, resolución de problemas, liderazgo, entre otros.
-Ofrezco mis servicios y conocimiento a fin de poder ayudar a la empresa a realizar sus proyectos 
-y poder aportar con aquello que he podido aprender a lo largo de estos años.
+👋 Hola, soy Santiago Carrattini
 
-mis objetivos son:
+Soy Desarrollador Full Stack de Paraná, Entre Ríos (Argentina), apasionado por crear software moderno, eficiente y con propósito. Comencé a programar a los 12 años, movido por la curiosidad de entender cómo funcionaban las cosas, y con el tiempo esa curiosidad se transformó en una verdadera vocación.
 
-* Ampliar conocimientos y tener un desarrollo constante de mis habilidades técnicas.
-* Poder desenvolverme en un ambiente de trabajo real de manera plena fortaleciendo mis habilidades blandas.
-* Continuar mis estudios a fin de seguir mejorando mis habilidades tanto de comunicación como técnicas.
+Tras egresar de Henry y continuar mis estudios como Técnico Universitario en Programación, consolidé una base sólida en desarrollo frontend y backend, con un enfoque en escribir código limpio, mantenible y escalable. Aprendí a analizar problemas en profundidad, planificar soluciones y trabajar de manera colaborativa dentro de equipos técnicos.
 
-Tecnologías:
+🧠 Lo que me define
 
-* React.
-* Redux.
-* JavaScript.
-* TypeScript.
-* C#.
-* PostgreSQL.
-* Express.
-* Prisma.
-* Chakra.
-* Bootstrap.
-* Passport.
-* CheckOut Mercadopago.
-* Css.
-* Html-5.
+Pensamiento analítico y estructurado – disfruto entender los sistemas y encontrar formas eficientes de mejorarlos.
 
+Curiosidad y aprendizaje constante – me mantengo en formación continua explorando nuevas tecnologías y herramientas.
 
-mis redes de contacto:
+Trabajo en equipo y comunicación – valoro el intercambio técnico claro y la colaboración.
 
-* Instagram: https://www.instagram.com/santicarrattini/.
-* Linkedin: https://www.linkedin.com/in/santiago-nicolas-carrattini-475b351b2/.
+Responsabilidad y adaptabilidad – me adapto fácilmente a nuevos entornos, lenguajes y desafíos.
 
+🛠️ Stack Tecnológico
+
+Frontend:
+React.js, Next.js, Redux, TypeScript, JavaScript, Tailwind CSS, Chakra UI, Bootstrap, HTML5, CSS3
+
+Backend:
+Node.js, Express.js, C#, Prisma ORM, FastAPI (nociones)
+
+Bases de Datos:
+PostgreSQL, SQL Server, Vector Databases (en aprendizaje)
+
+Autenticación e Integraciones:
+Passport, JWT, CheckOut de Mercadopago
+
+DevOps y Herramientas:
+Docker, Nginx, Git, GitHub, CI/CD básico, Azure (nociones)
+
+Metodologías y Conceptos:
+Agile / Scrum, principios SOLID, Clean Code, RESTful APIs, herramientas de IA (Copilot)
+
+🎯 Objetivos
+
+Seguir desarrollando mis habilidades técnicas en proyectos reales y de impacto.
+
+Fortalecer mis capacidades de comunicación y trabajo en equipo.
+
+Profundizar en el uso de herramientas de IA aplicadas al desarrollo.
+
+Construir una carrera sólida contribuyendo a software útil, moderno y de calidad.
+
+🌐 Redes
+
+LinkedIn: Santiago Nicolás Carrattini
+
+Instagram: @santicarrattini
+
+💬 “El código no es solo lógica, es una forma de convertir ideas en soluciones reales que generan impacto.”
 
 <!--
 **carra97/carra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
