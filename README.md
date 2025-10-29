@@ -160,8 +160,6 @@ Costruire una carriera solida contribuendo a software di qualità, moderno e sig
 
 LinkedIn: Santiago Nicolás Carrattini
 
-Instagram: @santicarrattini
-
 💬 “Il codice non è solo logica: è un modo per trasformare le idee in soluzioni reali che hanno un impatto.”
 <!--
 **carra97/carra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
