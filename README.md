@@ -46,9 +46,7 @@ Construir una carrera sólida contribuyendo a software útil, moderno y de calid
 
 🌐 Redes
 
-LinkedIn: Santiago Nicolás Carrattini
-
-Instagram: @santicarrattini
+LinkedIn: www.linkedin.com/in/santiago-nicolas-carrattini
 
 💬 “El código no es solo lógica, es una forma de convertir ideas en soluciones reales que generan impacto.”
 
