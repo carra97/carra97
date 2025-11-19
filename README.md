@@ -104,7 +104,7 @@ Build a solid career contributing to projects that combine creativity, technolog
 
 🌐 Let’s Connect
 
-LinkedIn: Santiago Nicolás Carrattini
+LinkedIn: www.linkedin.com/in/santiago-nicolas-carrattini
 
 💬 “Code is not just about logic — it’s about transforming ideas into solutions that make an impact.”
 
@@ -158,8 +158,7 @@ Costruire una carriera solida contribuendo a software di qualità, moderno e sig
 
 🌐 Reti
 
-LinkedIn: Santiago Nicolás Carrattini
-
+LinkedIn: www.linkedin.com/in/santiago-nicolas-carrattini
 💬 “Il codice non è solo logica: è un modo per trasformare le idee in soluzioni reali che hanno un impatto.”
 <!--
 **carra97/carra97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
